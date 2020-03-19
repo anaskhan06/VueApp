@@ -1,0 +1,42 @@
+{
+    "footer": {
+        "footerDetails": [
+            {
+                "title": "Help & Support",
+                "Details": [
+                    {
+                        "text": "Terms & Conditions",
+                        "link": "terms"
+                    },
+                    {
+                        "text": "FAQs",
+                        "link": "/faqs"
+                    },
+                    {
+                        "text": "Privacy Policy",
+                        "link": "/policy"
+                    }
+                ]
+            },
+            {
+                "title": "Developer",
+                "Details": [
+                    {
+                        "text": "APIs",
+                        "link": "apis"
+                    }
+                ]
+            },
+            {
+                "title": "Serving",
+                "Details": [
+                    {
+                        "text": "IND",
+                        "link": ""
+                    }
+                ]
+            }
+        ],
+        "copyright": "Copyright ©www.crisptag.com,All Rights Reserved"
+    }
+}

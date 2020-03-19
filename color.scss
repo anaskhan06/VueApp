@@ -1,0 +1,20 @@
+footer {
+    --footer-bgColor: #f5f5f5;
+    div[class="footer-content"] {
+      div[class="footer-info"] {
+        ul {
+          li[class="heading"] {
+            --footerHeading-color: #111212;
+          }
+          li[class="Details"] {
+            --footerDetails-color: #11121299;
+          }
+        }
+      }
+    }
+    div[class="footer-copyright"] {
+      div[class="footer-copyright-text"] {
+        --copyrightText-color: #11121299;
+      }
+    }
+  }
